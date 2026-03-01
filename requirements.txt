@@ -1,0 +1,14 @@
+the following requirements are according to my projects need , as some of these may be outdated , so change according to your needs
+spacy==2.3.5
+pyresparser==1.0.6
+
+pdfminer.six==20201018
+doc2text==0.2.4
+textract
+
+nltk==3.6.2
+pandas==1.1.5
+phonenumbers==8.12.22
+scikit-learn==0.24.2
+
+mysql-connector-python
